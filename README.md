@@ -1,0 +1,1 @@
+# Simple SVG animation using CSS
